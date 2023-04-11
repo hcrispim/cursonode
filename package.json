@@ -1,7 +1,9 @@
 {
   "dependencies": {
+    "@xeokit/xeokit-sdk": "^2.4.0-alpha-2",
     "bootstrap": "^5.2.3",
     "g": "^2.0.1",
+    "nodemon": "^2.0.22",
     "yarm": "^0.4.0",
     "yarn": "^1.22.19"
   }
